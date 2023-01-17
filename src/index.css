@@ -1,0 +1,12 @@
+* {
+      margin: 0;
+      padding: 0;
+      text-decoration: none;
+      list-style: none;
+      box-sizing: border-box;
+}
+:root {
+      --main_red: #dd1a1a;
+      --main_blue: #1c2398;
+      --color_white: white;
+}
